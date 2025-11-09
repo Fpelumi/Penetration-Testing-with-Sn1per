@@ -743,7 +743,7 @@ Found vulnerabilities mapped to OWASP Top 10:
 
 **Contact:** pelumifatoba32@gmail.com  
 **LinkedIn:** [linkedin.com/in/fatoba](https://linkedin.com/in/fatoba)  
-**Portfolio:** [Your Netlify URL]
+**Portfolio:** [fatoba.netlify](https://fatoba.netlify.app/)
 
 **Certifications:** Network Defense (Cisco), Cyber Threat Management (Cisco)
 
